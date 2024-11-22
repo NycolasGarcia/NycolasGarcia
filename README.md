@@ -2,7 +2,7 @@
 
 <img src="Imgs/Chess.png" width="250" align="left">
 
-<p>Eu sou o Nycolas, um estudante da USJT (Universidade São Judas Tadeu), e estou em busca da minha primeira oportunidade de emprego como um prospecto estagiário.
+<p>Eu sou o Nycolas, um estudante da USJT (Universidade São Judas Tadeu), e estou em busca de uma oportunidade de emprego como um prospecto estagiário.
 
 Estou no curso de Ciências da Computação, e tive experiências com Organização como monitor / representante por 5 semestres até então, além de gerenciar e documentar projetos em grupo variados baseados na premissa de criar uma empresa fictícia e um produto adequado ao nível acadêmico que coincida com a ementa do curso.
 </p>
