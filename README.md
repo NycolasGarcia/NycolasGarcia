@@ -19,7 +19,7 @@
 - Dashboards interativos (BI)
 - Automação de processos com Python
 - Modelagem de Machine Learning
-- Desenvolvimento de ferramentas (Flask, FastAPI)
+- Desenvolvimento de ferramentas
 
 ## Projetos
 
@@ -36,19 +36,17 @@
 ## Stack
 
 <div align="center">
-  
-<img src="https://skills.syvixor.com/api/icons?i=python"/>
 
-<p align="center">
-  
-**Python**, a minha ferramenta de uso diário, suporta minhas atividades como Analista de Dados, Engenheiro de ML e Desenvolvedor
+<img src="https://skills.syvixor.com/api/icons?i=python,flask,fastapi,pywebview,sqlite,postgresql,pandas,jupyter,databricks,scikitlearn,pytorch,mlflow,aws,docker,huggingface"/>
 
-</p>
-
-<img src="https://skills.syvixor.com/api/icons?i=flask,fastapi,pywebview,sqlite,postgresql,pandas,jupyter,databricks,scikitlearn,pytorch,mlflow,aws,docker,huggingface"/>
-
-*Flask · FastAPI · SQLite · PostgreSQL · Pandas · Jupyter · Databricks · Scikit-learn · PyTorch · MLflow · AWS · Docker · Hugging Face*
+*Python · Flask · FastAPI · SQLite · PostgreSQL · Pandas · Jupyter · Databricks · Scikit-learn · PyTorch · MLflow · AWS · Docker · Hugging Face*
 
 </div>
+
+## Contato
+
+Aberto a oportunidades em Dados, ML e Desenvolvimento Python
+
+LinkedIn: https://www.linkedin.com/in/NycolasAGRGarcia/
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&textBg=false&fontSize=50&fontAlignY=40&animation=twinkling)
